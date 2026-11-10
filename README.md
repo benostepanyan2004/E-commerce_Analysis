@@ -18,7 +18,8 @@ The goal of the project is to extract insights from real transactional data to b
 
 ## 🧠 Methodology
 
-![image](https://github.com/user-attachments/assets/99f160ee-c6c3-45a8-8248-275842ceb488)
+<img width="1093" height="604" alt="image" src="https://github.com/user-attachments/assets/dffe7ce6-3cc3-4dbf-8d84-97e0613d0f2d" />
+
 
 ### 🛠 ETL (Extract, Transform, Load)
 
@@ -26,7 +27,7 @@ Raw data was extracted, cleaned, and transformed to ensure consistent formats an
 
 ### 📈 RFM Analysis
 
-![image](https://github.com/user-attachments/assets/41a6b3c6-51b6-47a3-ad2b-f9803583a2ee)
+<img width="1091" height="613" alt="image" src="https://github.com/user-attachments/assets/72a9ae7a-174a-4079-93a4-cd2d164dde3a" />
 
 Performed RFM (Recency, Frequency, Monetary) modeling to segment customers based on purchasing behavior:
 
@@ -38,7 +39,7 @@ This model helped identify loyal, at-risk, and high-value customers.
 
 ### 🔍 Exploratory Data Analysis (EDA)
 
-![image](https://github.com/user-attachments/assets/642fa736-4acb-477f-9b25-d107e47432d6)
+<img width="1088" height="609" alt="image" src="https://github.com/user-attachments/assets/2594b484-33c9-41ab-a428-a668e98716a3" />
 
 Used EDA to:
 - Identify customer and order trends  
@@ -46,23 +47,23 @@ Used EDA to:
 - Reveal relationships between payment, freight cost, product category, and delivery time  
 - Uncover geographic and temporal patterns
 
-![image](https://github.com/user-attachments/assets/866c6574-6a19-4956-a36f-6b7ec03cb28b)
+<img width="1093" height="610" alt="image" src="https://github.com/user-attachments/assets/d7591c7a-ff49-403e-81fe-adf16ca2a440" />
 
-![image](https://github.com/user-attachments/assets/727a50c8-7f88-4cff-a83a-af3d953f6450)
+<img width="1086" height="607" alt="image" src="https://github.com/user-attachments/assets/8cd9de29-7332-4348-975f-3fe4922def51" />
 
-![image](https://github.com/user-attachments/assets/b305d6a7-fe79-4877-9cdb-a78827231450)
+<img width="1090" height="610" alt="image" src="https://github.com/user-attachments/assets/989d1de4-b6f8-41c1-a419-6b1a85160323" />
 
-![image](https://github.com/user-attachments/assets/0ad3e6dd-0f0b-4ab8-965a-cd9e35b6497a)
+<img width="1088" height="610" alt="image" src="https://github.com/user-attachments/assets/3dddaedd-acc0-4a7f-aa3a-d465e8ddc4ac" />
 
 ---
 
 ## 📊 Dashboard
 
-![image](https://github.com/user-attachments/assets/364634c4-99d7-45bf-bc57-fff327865d38)
+<img width="1020" height="616" alt="image" src="https://github.com/user-attachments/assets/65ebea7c-df0f-4f9d-945d-2c0037103438" />
 
-![image](https://github.com/user-attachments/assets/99d99f95-571f-4a95-a31d-4ed86b3b7219)
+<img width="1025" height="613" alt="image" src="https://github.com/user-attachments/assets/75b25369-3db1-4520-b870-491bb6941831" />
 
-![image](https://github.com/user-attachments/assets/83a36f99-6e1d-4336-b4e5-3d5ca665a911)
+<img width="1016" height="611" alt="image" src="https://github.com/user-attachments/assets/db18dbf2-29e4-4cab-98d0-8ea62a59f7ef" />
 
 ---
 
